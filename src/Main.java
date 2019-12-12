@@ -5,7 +5,6 @@
 
 import BaseballScore.*;
 import java.util.Scanner;
-import Util.Tool;
 
 public class Main extends Manager {
 	Scanner scan = new Scanner(System.in);
